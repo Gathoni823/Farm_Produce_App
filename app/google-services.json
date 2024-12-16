@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310171742880",
+    "project_id": "farm-bazaar-22cd6",
+    "storage_bucket": "farm-bazaar-22cd6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310171742880:android:32aaf9e90dda2a4bee0fc5",
+        "android_client_info": {
+          "package_name": "com.example.farmproduceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0e0Kc9xIs00J5dtF8NyX1qHmU_iXYguU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
